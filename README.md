@@ -1,7 +1,7 @@
 ### Olá!
 
 - 🔭 Hoje estou focando em Desenvolvimento Web Front-end
-- 🌱 Aprendendo PHP e Mysql
+- 🌱 Aprendendo Node.js e Mysql
 - 📫 Email: italo.miranda.santiago@gmail.com
 
 <div align="center">
